@@ -1,4 +1,6 @@
- I am Alpana Singh 👋
+ Hi, I'm Alpana Singh 👋
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl GIF"/>
 
 🎯 Aspiring **Data Engineer** | 💻 CSE (AI & ML) Student at KIPM College of Engineering and Technology
 
