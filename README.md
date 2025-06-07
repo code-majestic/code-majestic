@@ -27,16 +27,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlpanaSingh&color=blue)
-📌 Instructions:
-Isko apne GitHub profile ke README.md me paste karo (username = AlpanaSingh ho to images work karenge)
 
-Ye version clean, focused aur professional hai — bina zyada tools/badges ke
-
-Jab tum SQL project complete kar lo, uska link bhi add kar sakti ho
-
-Batao agar tum chahti ho ki usme LinkedIn ya koi aur project link bhi add kar du.
-Good luck 🌟 — tumhara profile ab kaafi strong lagega recruiters ko!
 
 
 2/2
