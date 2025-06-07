@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl GIF"/>
 
-🎯 Aspiring **Data Engineer** | 💻 CSE (AI & ML) Student 
+🎯 Aspiring **Data Engineer** | 💻 B.tech CSE (AI & ML) Student 
 
 ---
 
