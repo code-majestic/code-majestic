@@ -9,7 +9,7 @@
 - 🔍 Focused on **Data Engineering** with strong foundation in **Python**, **SQL**, and **C++ (DSA)**
 - 💡 Currently working on SQL-based data projects and solving DSA problems using C++
 - 🎓 Learning through practical implementation and continuous upskilling
-- 📍 Based in **Gorakhpur, Uttar Pradesh**
+  
 - 📬 Contact: [alpanasinghcs@gmail.com](mailto:alpanasinghcs@gmail.com)
 
 ---
