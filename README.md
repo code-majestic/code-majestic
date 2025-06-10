@@ -32,8 +32,5 @@
 </p>
 
 ---
-### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=code-majestic&theme=redical" alt="contribution graph"/>
-</p>
+
 
