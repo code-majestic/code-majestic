@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
-</p>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl GIF"/>
+
+
 
 <h1 align="center">Hi 👋, I'm Alpana Singh</h1>
 <h3 align="center">🚀 A Future Data Engineer & Big Data Enthusiast</h3>
