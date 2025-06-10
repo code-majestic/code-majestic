@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl GIF"/>
 
-<h1 align="center">Hi https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966, I'm Alpana Singh</h1>
+<h1 align="center">Hi, I'm Alpana Singh</h1>
 <h3 align="center">🚀 A Future Data Engineer & Big Data Enthusiast</h3>
 
 - 🔭 I’m currently working on: *Python, SQL, C++, GitHub*
