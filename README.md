@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="60%">
       <h1>Hi, I'm Alpana Singh</h1>
       🚀 A Future Data Engineer & Big Data Enthusiast  
       🔭 I’m currently working on: Python, SQL, C++, GitHub  
@@ -11,11 +11,12 @@
       📫 How to reach me: alpanasinghcs@gmail.com  
     </td>
     <td>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Girl GIF"/>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl GIF"/>
     </td>
   </tr>
 </table>
-    
+
+     
 ---
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
