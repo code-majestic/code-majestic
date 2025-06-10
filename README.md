@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.tenor.com/qFazlFtH1cAAAAAC/data-processing.gif" alt="Data Engineering & Big Data banner" />
+</p>
+
+<p align="center">
   <img src="https://your-gif-url.gif" alt="Data Engineering & Big Data banner" />
 </p>
 
