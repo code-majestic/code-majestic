@@ -1,22 +1,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Alpana Singh | Aspiring Data Engineer | Big Data Enthusiast" width="100%" />
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="40" style="vertical-align:middle;" />
-  Hi, I'm Alpana Singh
+  <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="50" style="vertical-align:middle;" />
+  <span style="font-size: 36px;">Hi, I'm Alpana Singh</span>
 </h1>
 
 <table>
   <tr>
     <td valign="top" width="60%">
-      🚀 A Future Data Engineer & Big Data Enthusiast
+    
+  ### 🚀 Aspiring Data Engineer | Big Data Explorer  
+  Passionate about designing scalable data systems and unlocking insights from massive datasets.  
+  Currently diving deep into the world of *Data Engineering, mastering tools like **Apache Spark, AWS, GCP, and building robust pipelines using **Python, SQL, and **GitHub*.  
+  <br/>
 
-      🔭 I’m currently working on: Python, SQL, C++, GitHub 
-
-      🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
-
-        💬 Ask me about: Data Engineering, Code Debugging, GitHub 
-
-       📫 How to reach me: alpanasinghcs@gmail.com  
+  - 🔭 *Working on:* Python • SQL • C++ • GitHub  
+  - 🌱 *Learning:* Apache Spark • AWS • GCP • VS Code  
+  - 💬 *Ask me about:* Data Engineering • Code Debugging • GitHub  
+  - 📫 *Reach me at:* alpanasinghcs@gmail.com  
+  
     </td>
     <td>
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Girl GIF"/>
