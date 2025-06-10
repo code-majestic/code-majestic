@@ -15,8 +15,8 @@
       🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
 
         💬 Ask me about: Data Engineering, Code Debugging, GitHub 
-         
-      📫 How to reach me: alpanasinghcs@gmail.com  
+
+       📫 How to reach me: alpanasinghcs@gmail.com  
     </td>
     <td>
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Girl GIF"/>
