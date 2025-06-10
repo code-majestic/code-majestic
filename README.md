@@ -26,6 +26,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-majestic&theme=radical" alt="streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&theme=radical&count_private=true" alt="stats"/>
 </p>
+### 📊 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-majestic&theme=radical" alt="Contribution Graph"/>
+</p>
 
 ---
 ### 📈 Contribution Graph:
