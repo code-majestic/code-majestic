@@ -1,21 +1,17 @@
- <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="50" style="vertical-align:middle;" />
-  <span style="font-size: 36px;">Hi,I'm Alpana Singh</span>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="40" style="vertical-align:middle;" />
+  Hi, I'm Alpana Singh
 </h1>
 
 <table>
   <tr>
     <td valign="top" width="60%">
-    
-  ### 🚀 Aspiring Data Engineer | Big Data Explorer  
-  Passionate about designing scalable data systems and unlocking insights from massive datasets.  
-  Currently diving deep into the world of *Data Engineering, mastering tools like **Apache Spark, AWS, GCP, and building robust pipelines using **Python, SQL, and **GitHub*.  
-  <br/>
-
-  - 🔭 *Working on:* Python • SQL • C++ • GitHub  
-  - 🌱 *Learning:* Apache Spark • AWS • GCP • VS Code  
-  - 💬 *Ask me about:* Data Engineering • Code Debugging • GitHub  
-  - 📫 *Reach me at:* alpanasinghcs@gmail.com  
-  
+      🚀 A Future Data Engineer & Big Data
+      Enthusiast  
+      🔭 I’m currently working on: Python, SQL, C++, GitHub  
+      🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
+      💬 Ask me about: Data Engineering, Code Debugging, GitHub  
+      📫 How to reach me: alpanasinghcs@gmail.com  
     </td>
     <td>
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Girl GIF"/>
@@ -23,7 +19,7 @@
   </tr>
 </table>
 
-   ---
+         ---
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
