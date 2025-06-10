@@ -2,13 +2,21 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl GIF"/>
 
-<h1 align="center">Hi, I'm Alpana Singh</h1>
-<h3 align="center">🚀 A Future Data Engineer & Big Data Enthusiast</h3>
-
-- 🔭 I’m currently working on: *Python, SQL, C++, GitHub*
-- 🌱 I’m learning: *Apache Spark, AWS, GCP, VS Code*
-- 💬 Ask me about: *Data Engineering, Code Debugging, GitHub*
-- 📫 How to reach me: *alpanasinghcs@gmail.com*
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Coding Girl GIF"/>
+    </td>
+    <td>
+      <h1>Hi, I'm Alpana Singh</h1>
+      🚀 A Future Data Engineer & Big Data Enthusiast  
+      🔭 I’m currently working on: Python, SQL, C++, GitHub  
+      🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
+      💬 Ask me about: Data Engineering, Code Debugging, GitHub  
+      📫 How to reach me: alpanasinghcs@gmail.com  
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🛠 Languages and Tools:
