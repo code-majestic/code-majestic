@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/qFazlFtH1cAAAAAC/data-processing.gif" alt="Data Engineering & Big Data banner" />
-</p>
-
-<p align="center">
-  <img src="https://your-gif-url.gif" alt="Data Engineering & Big Data banner" />
-</p>
-
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl GIF"/>
 
 
