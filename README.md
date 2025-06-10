@@ -1,43 +1,31 @@
- Hi, I'm Alpana Singh 👋
+<h1 align="center">Hi 👋, I'm Alpana Singh</h1>
+<h3 align="center">🚀 A Future Data Engineer & Big Data Enthusiast</h3>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl GIF"/>
-
-🎯 Aspiring **Data Engineer** | 💻 B.tech CSE (AI & ML) Student 
-
----
-
-- 🔍 Focused on **Data Engineering** with strong foundation in **Python**, **SQL**, and **C++ (DSA)**
-- 💡 Currently working on SQL-based data projects and solving DSA problems using C++
-- 🎓 Learning through practical implementation and continuous upskilling
-  
-- 📬 Contact: [alpanasinghcs@gmail.com](mailto:alpanasinghcs@gmail.com)
+- 🔭 I’m currently working on: *Python, SQL, C++, GitHub*
+- 🌱 I’m learning: *Apache Spark, AWS, GCP, VS Code*
+- 💬 Ask me about: *Data Engineering, Code Debugging, GitHub*
+- 📫 How to reach me: *alpanasinghcs@gmail.com*
 
 ---
 
-### 🛠️ Languages & Core Skills:
-- Python (Data Handling, Logic Building)
-- SQL (Database Queries, Joins, Subqueries)
-- C++ (Data Structures & Algorithms)
+### 🛠 Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode)
 
 ---
+### 🔥 My GitHub Stats:
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlpanaSingh&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlpanaSingh&theme=gruvbox" height="150"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-majestic&theme=radical" alt="streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&theme=radical&count_private=true" alt="stats"/>
 </p>
 
 ---
-
-
-
-
-2/2
-
-
-
-
-
-
-
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=code-majestic&theme=redical" alt="contribution graph"/>
+</p>
 
