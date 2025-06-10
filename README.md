@@ -1,13 +1,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Alpana Singh | Aspiring Data Engineer | Big Data Enthusiast" width="100%" />
 
- <table>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="40" style="vertical-align:middle;" />
+  Hi, I'm Alpana Singh
+</h1>
+
+<table>
   <tr>
     <td valign="top" width="60%">
-      <h1>Hi 👋, I'm Alpana Singh</h1>
       🚀 A Future Data Engineer & Big Data Enthusiast  
       🔭 I’m currently working on: Python, SQL, C++, GitHub  
       🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
-      💬 Ask me about: Data Engineering, Code Debugging, GitHub  
+        💬 Ask me about: Data Engineering, Code Debugging, GitHub  
       📫 How to reach me: alpanasinghcs@gmail.com  
     </td>
     <td>
@@ -15,8 +19,8 @@
     </td>
   </tr>
 </table>
-    
----
+
+   ---
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
