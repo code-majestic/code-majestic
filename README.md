@@ -1,11 +1,5 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="45" />
-  <span style="font-size: 34px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border: 2px solid #ccc; padding: 10px 20px; border-radius: 10px; display: inline-block;">Hi, I'm Alpana Singh</span>
-</h1>
- Aspiring Data Engineer And Big Data Enthusiast" width="100%" />
-<h1 align="center">
-  <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="50" style="vertical-align:middle;" />
-  <span style="font-size: 36px;">Hi, I'm Alpana Singh</span>
+ <img src="https://media.giphy.com/media/xUOwGm5f6yjrrnP7Y0/giphy.gif" width="50" style="vertical-align:middle;" />
+  <span style="font-size: 36px;">Hi,I'm Alpana Singh</span>
 </h1>
 
 <table>
