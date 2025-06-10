@@ -8,10 +8,14 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      🚀 A Future Data Engineer & Big Data Enthusiast  
-      🔭 I’m currently working on: Python, SQL, C++, GitHub  
+      🚀 A Future Data Engineer & Big Data Enthusiast
+
+      🔭 I’m currently working on: Python, SQL, C++, GitHub 
+
       🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
-        💬 Ask me about: Data Engineering, Code Debugging, GitHub  
+
+        💬 Ask me about: Data Engineering, Code Debugging, GitHub 
+         
       📫 How to reach me: alpanasinghcs@gmail.com  
     </td>
     <td>
