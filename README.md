@@ -39,12 +39,6 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
   <img src="https://github-profile-trophy.vercel.app/?username=code-majestic&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="700"/>
 </p>
 
----
-## 🐍 Contribution Snake Animation:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/code-majestic/code-majestic/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
 
 ---
 <img src="https://komarev.com/ghpvc/?username=code-majestic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor count"/>
