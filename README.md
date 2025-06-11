@@ -1,20 +1,22 @@
+<h1 align="center">Hi 👋, I'm Alpana Singh</h1>
 <table>
   <tr>
-    <td valign="top" width="60%">
-      <h1>Hi 👋, I'm Alpana Singh</h1>
-      🚀 A Future Data Engineer & Big Data Enthusiast  
-      🔭 I’m currently working on: Python, SQL, C++, GitHub  
-      🌱 I’m learning: Apache Spark, AWS, GCP, VS Code  
-      💬 Ask me about: Data Engineering, Code Debugging, GitHub  
-      📫 How to reach me: alpanasinghcs@gmail.com  
+    <td width="40%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Girl GIF"/>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Girl GIF"/>
+      🚀 A Future Data Engineer & Big Data Enthusiast<br/>
+      🔭 I’m currently working on: Python, SQL, C++, GitHub<br/>
+      🌱 I’m learning: Apache Spark, AWS, GCP, 
+VS Code<br/>
+      💬 Ask me about: Data Engineering, Code Debugging, GitHub<br/>
+      📫 How to reach me: alpanasinghcs@gmail.com
     </td>
   </tr>
 </table>
 
 ---
+
 ## 🛠 Languages and Tools:
 
 <p>
@@ -29,15 +31,39 @@
 </p>
 
 ---
+
 ## 📊 My GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpanasinghcs&show_icons=true&theme=radical&hide_border=false&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" alt="Alpana Singh's GitHub Stats" width="480"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alpanasinghcs&show_icons=true&theme=radical" width="480"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alpanasinghcs&theme=radical" width="480"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alpanasinghcs&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="480"/>
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpanasinghcs&layout=compact&theme=radical&hide_border=false&langs_count=10&bg_color=0d1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="480"/>
-</div>
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpanasinghcs&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="700"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alpanasinghcs/alpanasinghcs/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+## 👁‍🗨 Visitor Count:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alpanasinghcs&style=flat-square&color=blue" alt="Visitor Count"/>
+</p>
+
+
+---
 
 ### 📊 Contribution Graph:
 <p align="center">
