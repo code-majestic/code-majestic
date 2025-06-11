@@ -47,12 +47,7 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 </p>
 
 ---
-👁‍🗨 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=code-majestic&style=flat-square&color=blue" alt="Visitor Count"/>
-
-
----
+<img src="https://komarev.com/ghpvc/?username=code-majestic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor count"/>
 
 
       ### 📊 Contribution Graph:
