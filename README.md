@@ -1,7 +1,4 @@
- https://GitHub.com/username=code-majestic/repo_name=code-majestic/blob/main/alpana-banner .png?raw=true
-
-
-<h1 align="center">Hi 👋, I'm Alpana Singh</h1>
+ <h1 align="center">Hi 👋, I'm Alpana Singh</h1>
 
 <table>
   <tr>
