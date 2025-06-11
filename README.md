@@ -28,29 +28,29 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 ## 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpanasinghcs&show_icons=true&theme=radical" width="480"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alpanasinghcs&theme=radical" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&theme=radical" width="480"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-majestic&theme=radical" width="480"/>
 </p>
 
 ---
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpanasinghcs&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=code-majestic&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="700"/>
 </p>
 
 ---
 ## 🐍 Contribution Snake Animation:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alpanasinghcs/alpanasinghcs/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/code-majestic/code-majestic/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 ## 👁‍🗨 Visitor Count:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpanasinghcs&style=flat-square&color=blue" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=code-majestic&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
 ---
