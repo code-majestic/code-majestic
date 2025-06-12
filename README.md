@@ -1,5 +1,4 @@
- <img src="https://raw.githubusercontent.com/code-majestic/code-majestic/assets/banner-dark-dataengineer.gif" height="600"/>
- <h1 align="center">Hi 👋, I'm Alpana Singh</h1>
+<h1 align="center">Hi 👋, I'm Alpana Singh</h1>
 <table>
   <tr>
     <td>
