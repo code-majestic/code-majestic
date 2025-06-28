@@ -36,7 +36,7 @@ h2 align="center">📊 GitHub Stats</h2>
 
   <br/>
 
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&hide_border=true&bg_color=000000&title_color=90ee90&text_color=cccccc" alt="Top Languages" />
 
 </div>
 
