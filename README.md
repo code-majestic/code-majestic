@@ -35,7 +35,7 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 <img src="https://komarev.com/ghpvc/?username=code-majestic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor count"/>
 
 
-p>&nbsp;<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=code-majestic&theme=github-compact&include_all_commits=true" alt="code-majesticl" /></p></p>
+p>&nbsp;<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=code-majestic&theme=github-compact&include_all_commits=true" alt="code-majestic" /></p></p>
 
 
 ---
