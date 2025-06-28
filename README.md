@@ -24,14 +24,6 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 </p>
 
 ---
-## 📊 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&theme=radical" width="480"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-majestic&theme=radical" width="480"/>
-</p>
-
-
 h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
