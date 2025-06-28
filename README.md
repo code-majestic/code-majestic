@@ -24,6 +24,17 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc&icon_color=90ee90" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-majestic&hide_border=true&background=1e1e1e&ring=90ee90&currStreakLabel=cccccc&currStreakNum=90ee90&sideNums=cccccc&sideLabels=90ee90&dates=cccccc" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc" alt="Top Languages" />
+</p>
 
 ---
 <img src="https://komarev.com/ghpvc/?username=code-majestic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor count"/>
