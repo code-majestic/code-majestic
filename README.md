@@ -49,10 +49,6 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 
 ---
 
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=code-majestic&bg_color=1e1e1e&color=90ee90&line=ff0000&point=90ee90&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
