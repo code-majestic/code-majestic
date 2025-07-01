@@ -20,10 +20,7 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
   <img src="https://skillicons.dev/icons?i=python,cpp,github,git,vscode,mysql" alt="Skills" />
 </p>
 
-<!-- 🔴 Red Line Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-</p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -40,10 +37,7 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc" alt="Top Languages" />
 </p>
 
-<!-- 🔴 Red Line Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-</p>
+
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
