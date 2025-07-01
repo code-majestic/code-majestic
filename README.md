@@ -20,10 +20,6 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
   <img src="https://skillicons.dev/icons?i=python,cpp,github,git,vscode,mysql" alt="Skills" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&width=1000&lines=━━━━━━━━━🔥🔥🔥🔥🔥━━━━━━━━━" />
-</p>
-
 
 ---
 
@@ -42,14 +38,9 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&width=1000&lines=━━━━━━━━━🔥🔥🔥🔥🔥━━━━━━━━━" />
-</p>
-
 
 ---
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="8" alt="Rainbow Line" />
 ---
 
 <p>&nbsp;<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=code-majestic&theme=github-compact&include_all_commits=true" alt="code-majestic" /></p></p>
