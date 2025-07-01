@@ -20,7 +20,7 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
   <img src="https://skillicons.dev/icons?i=python,cpp,github,git,vscode,mysql" alt="Skills" />
 </p>
 
-p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&width=1000&lines=━━━━━━━━━🔥🔥🔥🔥🔥━━━━━━━━━" />
 </p>
 
@@ -42,7 +42,7 @@ p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc" alt="Top Languages" />
 </p>
 
-p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&width=1000&lines=━━━━━━━━━🔥🔥🔥🔥🔥━━━━━━━━━" />
 </p>
 
