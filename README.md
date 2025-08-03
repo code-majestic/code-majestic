@@ -38,19 +38,30 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 
 ---
 
-<!-- GitHub Stats -->
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc&icon_color=90ee90" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&theme=default&hide_border=false&border_radius=10&title_color=000000&text_color=000000" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Streak -->
+## GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-majestic&hide_border=true&background=1e1e1e&ring=90ee90&currStreakLabel=cccccc&currStreakNum=90ee90&sideNums=cccccc&sideLabels=90ee90&dates=cccccc" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-majestic&theme=default&hide_border=false&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages -->
+## Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&hide_border=true&bg_color=1e1e1e&title_color=90ee90&text_color=cccccc" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-majestic&layout=compact&theme=default&hide_border=false&title_color=000000&text_color=000000" alt="Top Languages" />
+</p>
+
+---
+
+## Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-majestic&style=flat-square&color=000000" alt="Profile Views" />
 </p>
 
 ---
