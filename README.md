@@ -41,13 +41,13 @@ L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&theme=default&hide_border=false&border_radius=10&title_color=000000&text_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-majestic&show_icons=true&hide_border=false&bg_color=ffffff&title_color=00aaff&text_color=333333&icon_color=ff914d&border_radius=10" alt="GitHub Stats" />
 </p>
 
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-majestic&theme=default&hide_border=false&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-majestic&hide_border=false&background=FFFFFF&ring=ff914d&fire=ff914d&currStreakLabel=00aaff&sideLabels=333333&sideNums=333333&dates=888888" alt="GitHub Streak" />
 </p>
 
 ## Most Used Languages
