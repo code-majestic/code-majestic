@@ -6,17 +6,16 @@
       🔭 I’m currently working on: Python, SQL, C++, GitHub <br/>
       🌱 I’m learning: Apache Spark, AWS, GCP, VS Code <br/>
       💬 Ask me about: Data Engineering, Code Debugging, GitHub <br/>
-      📫 How to reach me alpanasinghcs@gmail.com
+      📧 Email: alpanasinghcs@gmail.com 
     </td>
     <td width="50%">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" 
-L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
+LR1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl GIF"/>
     </td>
   </tr>
 </table>
 
 ---
-
 <p align="center">
 
 #### Language and tools
